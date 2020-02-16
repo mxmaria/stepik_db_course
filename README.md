@@ -1,1 +1,1 @@
-# stepik_db_course
+# STEPIK DB COURSE
